@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="ActionItem6" preserve-order="true">
+        <classes>
+            <class name="Day12_11062022.AI6" />
+            <class name="Day12_11062022.AI6pt2" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
